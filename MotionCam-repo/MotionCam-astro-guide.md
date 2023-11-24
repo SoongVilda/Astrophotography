@@ -99,3 +99,5 @@ The Moon is relatively easy to capture and serves as the best example for each s
 - Screenshot 3 - Example of unfocused image
 - Screenshot 4 - Example of a perfectly focused image: I was pleasantly surprised by the Samsung Galaxy S23 Ultra's automatic focusing capabilities - it did a great job. I even tried manually adjusting the focus, and I ended up with the exact same results, regardless of the focus peaking indicator
 ![MotionCam1-shooting](https://github.com/SoongVilda/Astrophotography/assets/61845673/6e1ac41d-a8fc-40c9-b1a2-3c6da5d95b4a)
+## Finished images
+Simply showcase: [Samsung Galaxy S23 Ultra finished Moon images](https://github.com/SoongVilda/Astrophotography/blob/main/MotionCam-repo/SamsungGalaxyS23Ultra.md#the-moon)
