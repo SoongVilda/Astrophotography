@@ -90,6 +90,8 @@ The Moon is relatively easy to capture and serves as the best example for each s
 3. **Perfect focus on the Moon** - At this moment the **Focus peaking** feature is crucial for successfully focusing on the Moon's surface.
 4. **Setting exposure time and ISO** - As soon as you do Planetary Imaging (or Solar System Imaging), always use the lowest possible ISO and only change exposure. Increasing exposure until a red area (Indication of over-exposing) appears on the Moon's surface. You mustn't overexpose your image; otherwise, you will lose details. I always hold a little bit back before the red area appears. I want to be sure nothing, even the edges of craters which are pretty bright and sharp won't be overexposed.
 5. **RAW VIDEO** - Don't forget to use RAW VIDEO mode. Now, you can start capturing until the Moon moves out of the zoomed viewfinder. Try to capture the Moon as close to the center of the frame as possible!
+> Q: How many frames should I capture?  
+> A: Capturing 500 frames should suffice. However, for the best possible quality - consider capturing 1000 frames.
 
 ## Screenshots of My Workflow: Capturing the Moon
 - Screenshot 1 - Finding the Moon
