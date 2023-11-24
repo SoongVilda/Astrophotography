@@ -1,6 +1,10 @@
 # Astrophotography with MotionCam pro
 I've achieved significant success with MotionCam and the Galaxy S23 Ultra in the field of astrophotography. Consequently, I've created a guide for anyone who owns a phone with a substantial optical zoom, such as the Galaxy S21 Ultra, S22 Ultra, or S23 Ultra. Many phones today are equipped with 5x optical zoom, along with significantly improved sensors and optics compared to the S21 Ultra, S22 Ultra, and S23 Ultra. Therefore, after cropping the image, the results could be quite comparable. This applies to phones like the Google Pixel 6, 7, 8 Pro, or Xiaomi Mi 11 Ultra, 12S Ultra, or 13 Ultra, and so on.
 
+#### My images
+If you are interested in seeing what I have accomplished with MotionCam Pro, please check this:
+- [Samsung Galaxy S23 Ultra Astrophotography Results: Processed Images.](https://github.com/SoongVilda/Astrophotography/blob/main/MotionCam-repo/SamsungGalaxyS23Ultra.md)
+
 # Short theory behind astrophotography.
 Reconsider much of what you know about traditional photography; it proves ineffective in astrophotography. Bear in mind that the captured data and the light passing through the lens to reach your sensor are the most crucial elements. The intelligent features of your phone or camera will not be of substantial assistance. Even high-end professional cameras with full-frame sensors can generate significant amounts of noise.
 
