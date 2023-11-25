@@ -1,5 +1,5 @@
 - [Astrophotography with MotionCam Pro](#astrophotography-with-motioncam-pro)
-	- [My images](My-images) 
+	- [My images](my-images) 
 - [Short theory behind astrophotography](#short-theory-behind-astrophotography)
 - [Set up the MotionCam app before you point your phone at the night sky](#set-up-the-motioncam-app-before-you-point-your-phone-at-the-night-sky)
 	- [Screenshot with settings](#screenshot-with-settings)
