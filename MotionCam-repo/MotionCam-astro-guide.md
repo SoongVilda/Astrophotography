@@ -10,7 +10,9 @@ If you are interested in seeing what I have accomplished with MotionCam Pro, ple
 - [Samsung Galaxy S23 Ultra Astrophotography Results: Processed Images.](https://github.com/SoongVilda/Astrophotography/blob/main/MotionCam-repo/SamsungGalaxyS23Ultra.md)
 
 # Short theory behind astrophotography
-Reconsider much of what you know about traditional photography; it proves ineffective in astrophotography. Bear in mind that the captured data and the light passing through the lens to reach your sensor are the most crucial elements. The intelligent features of your phone or camera will not be of substantial assistance. Even high-end professional cameras with full-frame sensors can generate significant amounts of noise.
+- Reconsider much of what you know about traditional photography; it proves ineffective in astrophotography.
+- Bear in mind that the captured data and the light passing through the lens to reach your sensor are the most crucial elements. The intelligent features of your phone or camera will not be of substantial assistance.
+- Even high-end professional cameras with full-frame sensors can generate significant amounts of noise.
 
 # Set up the MotionCam app before you point your phone at the night sky
 There are a few basic principles you need to follow:
