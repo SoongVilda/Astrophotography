@@ -85,11 +85,23 @@ This is a description of the image-capturing process using MotionCam.
 ## Moon
 The Moon is relatively easy to capture and serves as the best example for each step of the capturing process.
 
-1. **Finding the Moon** - It might sound amusing and unusual, but locating an object in the night sky with a longer focal length can be challenging. Personally, I sometimes use my 3x (70mm lens) to find the Moon more quickly.
-2. **Adjust the zoom on your viewfinder** - Even at 10x optical zoom (230mm lens), the Moon appears small, and it's challenging to Identify any surface details.
-3. **Perfect focus on the Moon** - At this moment the **Focus peaking** feature is crucial for successfully focusing on the Moon's surface.
-4. **Setting exposure time and ISO** - As soon as you do Planetary Imaging (or Solar System Imaging), always use the lowest possible ISO and only change exposure. Increasing exposure until a red area (Indication of over-exposing) appears on the Moon's surface. You mustn't overexpose your image; otherwise, you will lose details. I always hold a little bit back before the red area appears. I want to be sure nothing, even the edges of craters which are pretty bright and sharp won't be overexposed.
-5. **RAW VIDEO** - Don't forget to use RAW VIDEO mode. Now, you can start capturing until the Moon moves out of the zoomed viewfinder. Try to capture the Moon as close to the center of the frame as possible!
+#### 1. Mount your smartphone on a tripod 
+- Your smartphone needs to be steady and stable.
+  
+#### 2. Finding the Moon
+- It might sound amusing and unusual, but locating an object in the night sky with a longer focal length can be challenging. I sometimes use my 3x (70mm lens) to find the Moon more quickly.
+
+#### 3. Adjust the zoom on your viewfinder 
+- Even at 10x optical zoom (230mm lens), the Moon appears small, and it's challenging to Identify any surface details.
+
+#### 4. Perfect focus on the Moon 
+- The **Focus peaking** feature is crucial for successfully focusing on the Moon's surface.
+
+#### 5. Setting exposure time and ISO
+- As soon as you do Planetary Imaging (or Solar System Imaging), always use the lowest possible ISO and only change exposure. Increasing exposure until a red area (Indication of over-exposing) appears on the Moon's surface. You mustn't overexpose your image; otherwise, you will lose details. I always hold a little bit back before the red area appears. I want to be sure nothing, even the edges of craters which are pretty bright and sharp won't be overexposed.
+
+#### 6. RAW VIDEO 
+- Don't forget to use RAW VIDEO mode. Now, you can start capturing until the Moon moves out of the zoomed viewfinder. Try to capture the Moon as close to the center of the frame as possible!
 > Q: How many frames should I capture?  
 > A: Capturing 500 frames should suffice. However, for the best possible quality - consider capturing 1000 frames.
 
