@@ -10,5 +10,5 @@ Digital image processing is the use of a digital computer to process digital ima
 
 ## What is image processing in astrophotography?
 I personally identify a few key areas where image processing plays a role in astrophotography.
-- Improve images visually
-- Analyzing of image
+- **Improve images visually** - It tends to lean more towards art, as the primary objective is the visual aesthetics of images rather than scientific exploration.
+- **Analyzing images** - It's akin to pure science, involving tasks such as discovering exoplanets, determining the temperature of stars, measuring the size of objects in space, and more.
