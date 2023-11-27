@@ -2,7 +2,9 @@
   - [Why?](#why)
   - [MotionCam Pro](#motioncam-pro)
   - [Sources of my knowledge](#sources-of-my-knowledge)
-    - [Astrobiscuit](#astrobiscuit) 
+    - [Astrobiscuit](#astrobiscuit)
+  - [Software](#software)
+    - [Processing](#processing) 
 
 # Repository description
 This repository is devoted to encompassing knowledge within the field of [Astrophotography](https://en.wikipedia.org/wiki/Astrophotography).
@@ -20,3 +22,11 @@ I discovered some places where there is a significant concentration of astrophot
 ### Astrobiscuit
 - [astrobiscuit](https://astrobiscuit.com/) - I highly recommend exploring this website to anyone interested in starting to capture pictures of the night sky.
 - [astrobiscuit discord](https://astrobiscuit.com/discord/) - This community is state-of-the-art, with highly experienced people. There is much to learn from them, and personally, this is where I began my journey as well.
+
+## Software
+Below is a list of software I utilized for mobile astrophotography, which can also be applied by those using a DSLR.
+
+### Processing
+- [Siril](https://siril.org/)
+- [RegiStax](https://www.astronomie.be/registax/)
+- [waveSharp](https://github.com/CorBer/waveSharp) - by the same author as Registax.
